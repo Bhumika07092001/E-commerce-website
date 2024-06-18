@@ -1,4 +1,12 @@
+# GUI 
+
+1. ![Screenshot (706)](https://github.com/Bhumika07092001/E-commerce-website/assets/109783089/ada0ba72-6079-4207-ad64-f07f7e089263)
+2. ![Screenshot (707)](https://github.com/Bhumika07092001/E-commerce-website/assets/109783089/34770713-f281-4f94-84a8-537afe95b449)
+3. ![Screenshot (708)](https://github.com/Bhumika07092001/E-commerce-website/assets/109783089/4ceed392-2ae5-42c6-bfe9-d3de36169692)
+4. ![Screenshot (709)](https://github.com/Bhumika07092001/E-commerce-website/assets/109783089/04a8bf08-a01f-45aa-9fee-2bf5667dc3cf)
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
